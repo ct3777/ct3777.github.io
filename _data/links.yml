@@ -1,0 +1,10 @@
+# blog page sections
+- name: shader posts
+  href: '/shaderposts/'
+
+- name: maya tools
+  href: '/mayatools/'
+
+
+- name: about me
+  href: '/artistscv/'
